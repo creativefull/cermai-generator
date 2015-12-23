@@ -1,0 +1,17 @@
+{
+  "name": "cermai-generator",
+  "version": "0.0.2",
+  "description": "Framework Nodejs And Mongodb Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no script test\""
+  },
+  "bin": {
+    "cermai-generator": "bin/cermai-generate.js"
+  },
+  "keywords": [
+    "Nodejs+Mongodb"
+  ],
+  "author": "Shodiqul Muzaki <mshodiqul@gmail.com> (http://creativefull.cf)",
+  "license": "ISC"
+}
